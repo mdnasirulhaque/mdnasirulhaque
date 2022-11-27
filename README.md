@@ -4,7 +4,7 @@
 ---
 ### **Work Experience**
 Tata Consultancy Servies Private Ltd
-* **3.7 years** of experience
+* **~4 years** of experience
 * Working as a **Principle Engineer**
 * Worked as **Framework Developer**, **Application Developer** and **RnI Developer**
 * Woked on **Angular**, **JavaScript**, **Typescript**, **NodeJs**, **HTML**, **CSS** and **SCSS**

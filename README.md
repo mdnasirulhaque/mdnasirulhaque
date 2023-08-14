@@ -5,7 +5,7 @@ Logical Abstract Perfectionist ... .. .
 
 ## Experience
 
-Working as a fulltime employee in **Tata Consultancy Service Pvt Ltd**
+Working as a full-time employee in **Tata Consultancy Service Pvt Ltd**
 >
 > * **Platform Engineer** in Cloud Migration Team 🤠
 > * **Principle Engineer** in Framework Team 🤩
@@ -13,6 +13,8 @@ Working as a fulltime employee in **Tata Consultancy Service Pvt Ltd**
 > * **Research and Development** Engineer 😎
 
 ## Domain Knowledge
+
+Learn Learn Learn till you earn
 >
 > * Node Js | Javascript | Typescript | HTML | CSS | SCSS | Express Js
 > * Mongo DB | MySQL | Oracle | Firebase
@@ -22,6 +24,8 @@ Working as a fulltime employee in **Tata Consultancy Service Pvt Ltd**
 > * C | Ruby
 
 ## Technologies and Frameworks
+
+Must have section for Software Engineers
 >
 > * Angular 2 | 4 | 6 | 7 | 8 | 11 | 14 | 16
 > * GCP
@@ -32,6 +36,8 @@ Working as a fulltime employee in **Tata Consultancy Service Pvt Ltd**
 > * Hybrid App Development
 
 ## Projects
+
+Skills put to good use
 >
 > * Smart Bedroom lighting system based on NodeMCU and RGB strip lighting, [click here to know more](https://github.com/lurisan/Smart-Bedroom)
 > * A Novel Gene Selection Technique Using Wrapper Approach on Microarray Gene Expression Data
@@ -39,7 +45,7 @@ Working as a fulltime employee in **Tata Consultancy Service Pvt Ltd**
 > * IOT (Smart Home Automation System based on Arduino)
 > * IOT (Smart Factory Automation System based on Arduino)
 > * Wirelessly Controlled Robotic Hand
-> * Cab Booking System (based on JSP, HTML, CSS, Bootstrap, JAVA)
+> * Cab Booking System (based on JSP, HTML, CSS, Bootstrap, and JAVA)
 > * Canteen Management System (based on Python)
 > * Library Management System (based on JAVA) 4
 > * Ongoing (Dr. Assistant and Expense App)

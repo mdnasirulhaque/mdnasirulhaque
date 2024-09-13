@@ -7,6 +7,7 @@ Logical Abstract Perfectionist ... .. .
 
 Working as a full-time employee in **Tata Consultancy Service Pvt Ltd**
 >
+> * **UI Architect** in Cloud Platform Team 🤗
 > * **Platform Engineer** in Cloud Migration Team 🤠
 > * **Principle Engineer** in Framework Team 🤩
 > * **Junior Developer** in a Senior Position 😅
